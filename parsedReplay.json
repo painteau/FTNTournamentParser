@@ -1,0 +1,1495 @@
+{
+  "eliminations": [
+    {
+      "eliminated": {
+        "id": "TitasLyn",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "Loordrimoah",
+        "isBot": false
+      },
+      "gunType": "03",
+      "knocked": true,
+      "timestamp": 70091
+    },
+    {
+      "eliminated": {
+        "id": "Loordrimoah",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "C4azySaviol",
+        "isBot": false
+      },
+      "gunType": "03",
+      "knocked": true,
+      "timestamp": 75659
+    },
+    {
+      "eliminated": {
+        "id": "morteneven",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "C4azySaviol",
+        "isBot": false
+      },
+      "gunType": "03",
+      "knocked": false,
+      "timestamp": 79013
+    },
+    {
+      "eliminated": {
+        "id": "TitasLyn",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "Loordrimoah",
+        "isBot": false
+      },
+      "gunType": "03",
+      "knocked": false,
+      "timestamp": 80185
+    },
+    {
+      "eliminated": {
+        "id": "tobiaskingsman",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "tobiaskingsman",
+        "isBot": false
+      },
+      "gunType": "01",
+      "knocked": true,
+      "timestamp": 82022
+    },
+    {
+      "eliminated": {
+        "id": "Loordrimoah",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "C4azySaviol",
+        "isBot": false
+      },
+      "gunType": "03",
+      "knocked": false,
+      "timestamp": 82430
+    },
+    {
+      "eliminated": {
+        "id": "Baldu_96",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "C4azySaviol",
+        "isBot": false
+      },
+      "gunType": "03",
+      "knocked": false,
+      "timestamp": 87871
+    },
+    {
+      "eliminated": {
+        "id": "salehmhagne100",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "KingDončić77",
+        "isBot": false
+      },
+      "gunType": "03",
+      "knocked": true,
+      "timestamp": 88607
+    },
+    {
+      "eliminated": {
+        "id": "salehmhagne100",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "KingDončić77",
+        "isBot": false
+      },
+      "gunType": "03",
+      "knocked": false,
+      "timestamp": 90289
+    },
+    {
+      "eliminated": {
+        "id": "Hjkey_771",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "Lucky_Luca_YT",
+        "isBot": false
+      },
+      "gunType": "03",
+      "knocked": true,
+      "timestamp": 91423
+    },
+    {
+      "eliminated": {
+        "id": "Lucky_Luca_YT",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "NOT_CIPIKO",
+        "isBot": false
+      },
+      "gunType": "02",
+      "knocked": true,
+      "timestamp": 93858
+    },
+    {
+      "eliminated": {
+        "id": "G0SP1",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "Gromoboy2282",
+        "isBot": false
+      },
+      "gunType": "03",
+      "knocked": true,
+      "timestamp": 98806
+    },
+    {
+      "eliminated": {
+        "id": "Lucky_Luca_YT",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "NOT_CIPIKO",
+        "isBot": false
+      },
+      "gunType": "02",
+      "knocked": false,
+      "timestamp": 98944
+    },
+    {
+      "eliminated": {
+        "id": "Kapitan_Puchacz",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "C4azySaviol",
+        "isBot": false
+      },
+      "gunType": "03",
+      "knocked": true,
+      "timestamp": 101152
+    },
+    {
+      "eliminated": {
+        "id": "G0SP1",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "Gromoboy2282",
+        "isBot": false
+      },
+      "gunType": "08",
+      "knocked": false,
+      "timestamp": 103867
+    },
+    {
+      "eliminated": {
+        "id": "Kapitan_Puchacz",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "FallShark152442",
+        "isBot": false
+      },
+      "gunType": "08",
+      "knocked": false,
+      "timestamp": 106206
+    },
+    {
+      "eliminated": {
+        "id": "VaLY_01",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "Demon_Hunter34",
+        "isBot": false
+      },
+      "gunType": "02",
+      "knocked": true,
+      "timestamp": 107818
+    },
+    {
+      "eliminated": {
+        "id": "BlackEagle2018sa",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "Demon_Hunter34",
+        "isBot": false
+      },
+      "gunType": "02",
+      "knocked": true,
+      "timestamp": 109276
+    },
+    {
+      "eliminated": {
+        "id": "Bachan.",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "FallShark152442",
+        "isBot": false
+      },
+      "gunType": "03",
+      "knocked": false,
+      "timestamp": 111929
+    },
+    {
+      "eliminated": {
+        "id": "BlackEagle2018sa",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "Demon_Hunter34",
+        "isBot": false
+      },
+      "gunType": "02",
+      "knocked": false,
+      "timestamp": 112714
+    },
+    {
+      "eliminated": {
+        "id": "vadim com",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "Demon_Hunter34",
+        "isBot": false
+      },
+      "gunType": "02",
+      "knocked": false,
+      "timestamp": 113151
+    },
+    {
+      "eliminated": {
+        "id": "TAP-m.sadk",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "HaRuN42_36",
+        "isBot": false
+      },
+      "gunType": "03",
+      "knocked": true,
+      "timestamp": 118548
+    },
+    {
+      "eliminated": {
+        "id": "VaLY_01",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "Demon_Hunter34",
+        "isBot": false
+      },
+      "gunType": "02",
+      "knocked": false,
+      "timestamp": 119772
+    },
+    {
+      "eliminated": {
+        "id": "TAP-m.sadk",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "HaRuN42_36",
+        "isBot": false
+      },
+      "gunType": "03",
+      "knocked": false,
+      "timestamp": 122030
+    },
+    {
+      "eliminated": {
+        "id": "Hjkey_771",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "Hjkey_771",
+        "isBot": false
+      },
+      "gunType": "03",
+      "knocked": false,
+      "timestamp": 132271
+    },
+    {
+      "eliminated": {
+        "id": "NOT_CIPIKO",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "3D_Ruling",
+        "isBot": false
+      },
+      "gunType": "04",
+      "knocked": false,
+      "timestamp": 132305
+    },
+    {
+      "eliminated": {
+        "id": "Pedorassas228",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "Pedorassas228",
+        "isBot": false
+      },
+      "gunType": "30",
+      "knocked": false,
+      "timestamp": 138865
+    },
+    {
+      "eliminated": {
+        "id": "KingDončić77",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "zeko-zekoabumadi",
+        "isBot": false
+      },
+      "gunType": "03",
+      "knocked": false,
+      "timestamp": 139562
+    },
+    {
+      "eliminated": {
+        "id": "tobiaskingsman",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "tobiaskingsman",
+        "isBot": false
+      },
+      "gunType": "11",
+      "knocked": false,
+      "timestamp": 140114
+    },
+    {
+      "eliminated": {
+        "id": "WP ME Żbiku",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "SC_Plexo32",
+        "isBot": false
+      },
+      "gunType": "04",
+      "knocked": true,
+      "timestamp": 145429
+    },
+    {
+      "eliminated": {
+        "id": "viviiirrr",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "Gadzzoo",
+        "isBot": false
+      },
+      "gunType": "06",
+      "knocked": true,
+      "timestamp": 146741
+    },
+    {
+      "eliminated": {
+        "id": "CistitXUYA",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "Shanlom",
+        "isBot": false
+      },
+      "gunType": "04",
+      "knocked": false,
+      "timestamp": 149263
+    },
+    {
+      "eliminated": {
+        "id": "ondroSALAD",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "JokarXd11",
+        "isBot": false
+      },
+      "gunType": "03",
+      "knocked": true,
+      "timestamp": 156176
+    },
+    {
+      "eliminated": {
+        "id": "ondroSALAD",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "JokarXd11",
+        "isBot": false
+      },
+      "gunType": "03",
+      "knocked": false,
+      "timestamp": 157879
+    },
+    {
+      "eliminated": {
+        "id": "C4azySaviol",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "nicorunge112",
+        "isBot": false
+      },
+      "gunType": "0f",
+      "knocked": true,
+      "timestamp": 159409
+    },
+    {
+      "eliminated": {
+        "id": "efe4126ismet",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "D.u.r.a.l",
+        "isBot": false
+      },
+      "gunType": "03",
+      "knocked": true,
+      "timestamp": 162747
+    },
+    {
+      "eliminated": {
+        "id": "efe4126ismet",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "D.u.r.a.l",
+        "isBot": false
+      },
+      "gunType": "03",
+      "knocked": false,
+      "timestamp": 164441
+    },
+    {
+      "eliminated": {
+        "id": "nicorunge112",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "FallShark152442",
+        "isBot": false
+      },
+      "gunType": "03",
+      "knocked": true,
+      "timestamp": 166928
+    },
+    {
+      "eliminated": {
+        "id": "ProDogue",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "Shiqan",
+        "isBot": false
+      },
+      "gunType": "05",
+      "knocked": true,
+      "timestamp": 167933
+    },
+    {
+      "eliminated": {
+        "id": "emocanprox41",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "heaven-guard",
+        "isBot": false
+      },
+      "gunType": "03",
+      "knocked": false,
+      "timestamp": 169616
+    },
+    {
+      "eliminated": {
+        "id": "SC_Plexo32",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "JokarXd11",
+        "isBot": false
+      },
+      "gunType": "05",
+      "knocked": false,
+      "timestamp": 169888
+    },
+    {
+      "eliminated": {
+        "id": "nicorunge112",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "FallShark152442",
+        "isBot": false
+      },
+      "gunType": "05",
+      "knocked": false,
+      "timestamp": 170317
+    },
+    {
+      "eliminated": {
+        "id": "LD Mineru",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "Shiqan",
+        "isBot": false
+      },
+      "gunType": "03",
+      "knocked": false,
+      "timestamp": 171015
+    },
+    {
+      "eliminated": {
+        "id": "ProDogue",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "Shiqan",
+        "isBot": false
+      },
+      "gunType": "05",
+      "knocked": false,
+      "timestamp": 171322
+    },
+    {
+      "eliminated": {
+        "id": "ZIAD ALOBEIDI",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "zeko-zekoabumadi",
+        "isBot": false
+      },
+      "gunType": "03",
+      "knocked": false,
+      "timestamp": 171969
+    },
+    {
+      "eliminated": {
+        "id": "zeko-zekoabumadi",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "you are ugly 36",
+        "isBot": false
+      },
+      "gunType": "05",
+      "knocked": true,
+      "timestamp": 174103
+    },
+    {
+      "eliminated": {
+        "id": "zeko-zekoabumadi",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "HaRuN42_36",
+        "isBot": false
+      },
+      "gunType": "05",
+      "knocked": false,
+      "timestamp": 177459
+    },
+    {
+      "eliminated": {
+        "id": "gor2gonzola",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "PatrikPINDO998",
+        "isBot": false
+      },
+      "gunType": "02",
+      "knocked": true,
+      "timestamp": 182375
+    },
+    {
+      "eliminated": {
+        "id": "ابو دلال",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "you are ugly 36",
+        "isBot": false
+      },
+      "gunType": "0a",
+      "knocked": false,
+      "timestamp": 183607
+    },
+    {
+      "eliminated": {
+        "id": "viviiirrr",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "Ghost LaughBear",
+        "isBot": false
+      },
+      "gunType": "04",
+      "knocked": false,
+      "timestamp": 185519
+    },
+    {
+      "eliminated": {
+        "id": "gor2gonzola",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "PatrikPINDO998",
+        "isBot": false
+      },
+      "gunType": "02",
+      "knocked": false,
+      "timestamp": 185763
+    },
+    {
+      "eliminated": {
+        "id": "WP-ME-Petrovsky",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "NickParr1sh",
+        "isBot": false
+      },
+      "gunType": "03",
+      "knocked": true,
+      "timestamp": 190923
+    },
+    {
+      "eliminated": {
+        "id": "Gadzzoo",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "KsK sneaX",
+        "isBot": false
+      },
+      "gunType": "04",
+      "knocked": true,
+      "timestamp": 191333
+    },
+    {
+      "eliminated": {
+        "id": "WP-ME-Petrovsky",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "NickParr1sh",
+        "isBot": false
+      },
+      "gunType": "02",
+      "knocked": false,
+      "timestamp": 192610
+    },
+    {
+      "eliminated": {
+        "id": "Gadzzoo",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "kinczulK",
+        "isBot": false
+      },
+      "gunType": "04",
+      "knocked": false,
+      "timestamp": 194682
+    },
+    {
+      "eliminated": {
+        "id": "NickParr1sh",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "WP-ME-Plaga69",
+        "isBot": false
+      },
+      "gunType": "03",
+      "knocked": true,
+      "timestamp": 195349
+    },
+    {
+      "eliminated": {
+        "id": "vagchar",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "franebiondic123",
+        "isBot": false
+      },
+      "gunType": "03",
+      "knocked": true,
+      "timestamp": 195856
+    },
+    {
+      "eliminated": {
+        "id": "xmm642008",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "kyriedurant6",
+        "isBot": false
+      },
+      "gunType": "04",
+      "knocked": true,
+      "timestamp": 198253
+    },
+    {
+      "eliminated": {
+        "id": "NickParr1sh",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "WP-ME-Plaga69",
+        "isBot": false
+      },
+      "gunType": "03",
+      "knocked": false,
+      "timestamp": 198691
+    },
+    {
+      "eliminated": {
+        "id": "Demon_Hunter34",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "cerealMkilaa",
+        "isBot": false
+      },
+      "gunType": "04",
+      "knocked": true,
+      "timestamp": 202073
+    },
+    {
+      "eliminated": {
+        "id": "vagchar",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "franebiondic123",
+        "isBot": false
+      },
+      "gunType": "03",
+      "knocked": false,
+      "timestamp": 202538
+    },
+    {
+      "eliminated": {
+        "id": "Demon_Hunter34",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "cerealMkilaa",
+        "isBot": false
+      },
+      "gunType": "04",
+      "knocked": false,
+      "timestamp": 205442
+    },
+    {
+      "eliminated": {
+        "id": "PatrikPINDO998",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "FiliKas69",
+        "isBot": false
+      },
+      "gunType": "02",
+      "knocked": false,
+      "timestamp": 205872
+    },
+    {
+      "eliminated": {
+        "id": "WP-ME-Plaga69",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "M1L_iamzod",
+        "isBot": false
+      },
+      "gunType": "03",
+      "knocked": false,
+      "timestamp": 205942
+    },
+    {
+      "eliminated": {
+        "id": "WP ME Żbiku",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "WP ME Żbiku",
+        "isBot": false
+      },
+      "gunType": "04",
+      "knocked": false,
+      "timestamp": 206109
+    },
+    {
+      "eliminated": {
+        "id": "xmm642008",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "kyriedurant6",
+        "isBot": false
+      },
+      "gunType": "04",
+      "knocked": false,
+      "timestamp": 208315
+    },
+    {
+      "eliminated": {
+        "id": "menacing-hook728",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "Gol.D.",
+        "isBot": false
+      },
+      "gunType": "04",
+      "knocked": true,
+      "timestamp": 215525
+    },
+    {
+      "eliminated": {
+        "id": "HaRuN42_36",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "HaRuN42_36",
+        "isBot": false
+      },
+      "gunType": "0f",
+      "knocked": true,
+      "timestamp": 216227
+    },
+    {
+      "eliminated": {
+        "id": "kinczulK",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "Ghost LaughBear",
+        "isBot": false
+      },
+      "gunType": "06",
+      "knocked": true,
+      "timestamp": 222472
+    },
+    {
+      "eliminated": {
+        "id": "abdullah1564",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "abdallah7864",
+        "isBot": false
+      },
+      "gunType": "03",
+      "knocked": true,
+      "timestamp": 229383
+    },
+    {
+      "eliminated": {
+        "id": "AD AyanDenis",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "Savage_1802",
+        "isBot": false
+      },
+      "gunType": "05",
+      "knocked": true,
+      "timestamp": 229716
+    },
+    {
+      "eliminated": {
+        "id": "FiliKas69",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "Ghost LaughBear",
+        "isBot": false
+      },
+      "gunType": "04",
+      "knocked": false,
+      "timestamp": 230958
+    },
+    {
+      "eliminated": {
+        "id": "kinczulK",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "Ghost LaughBear",
+        "isBot": false
+      },
+      "gunType": "06",
+      "knocked": false,
+      "timestamp": 232504
+    },
+    {
+      "eliminated": {
+        "id": "abdullah1564",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "Sparda2K",
+        "isBot": false
+      },
+      "gunType": "03",
+      "knocked": false,
+      "timestamp": 232739
+    },
+    {
+      "eliminated": {
+        "id": "2661974M",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "Jamesontango_171",
+        "isBot": false
+      },
+      "gunType": "04",
+      "knocked": true,
+      "timestamp": 232805
+    },
+    {
+      "eliminated": {
+        "id": "3D_Ruling",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "mc.Coco",
+        "isBot": false
+      },
+      "gunType": "05",
+      "knocked": false,
+      "timestamp": 232870
+    },
+    {
+      "eliminated": {
+        "id": "oDaiCu Flavia",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "Savage_1802",
+        "isBot": false
+      },
+      "gunType": "04",
+      "knocked": false,
+      "timestamp": 234645
+    },
+    {
+      "eliminated": {
+        "id": "HaRuN42_36",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "HaRuN42_36",
+        "isBot": false
+      },
+      "gunType": "0f",
+      "knocked": false,
+      "timestamp": 234645
+    },
+    {
+      "eliminated": {
+        "id": "AD AyanDenis",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "Savage_1802",
+        "isBot": false
+      },
+      "gunType": "05",
+      "knocked": false,
+      "timestamp": 234780
+    },
+    {
+      "eliminated": {
+        "id": "you are ugly 36",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "JokarXd11",
+        "isBot": false
+      },
+      "gunType": "05",
+      "knocked": false,
+      "timestamp": 235047
+    },
+    {
+      "eliminated": {
+        "id": "2661974M",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "Jamesontango_171",
+        "isBot": false
+      },
+      "gunType": "04",
+      "knocked": false,
+      "timestamp": 236185
+    },
+    {
+      "eliminated": {
+        "id": "SniperGC666",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "paris tsak16",
+        "isBot": false
+      },
+      "gunType": "05",
+      "knocked": true,
+      "timestamp": 236424
+    },
+    {
+      "eliminated": {
+        "id": "paris tsak16",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "Jamesontango_171",
+        "isBot": false
+      },
+      "gunType": "04",
+      "knocked": false,
+      "timestamp": 236595
+    },
+    {
+      "eliminated": {
+        "id": "kyriedurant6",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "franebiondic123",
+        "isBot": false
+      },
+      "gunType": "03",
+      "knocked": false,
+      "timestamp": 237955
+    },
+    {
+      "eliminated": {
+        "id": "JokarXd11",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "M1L_iamzod",
+        "isBot": false
+      },
+      "gunType": "03",
+      "knocked": false,
+      "timestamp": 245537
+    },
+    {
+      "eliminated": {
+        "id": "Gol.D.",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "Gromoboy2282",
+        "isBot": false
+      },
+      "gunType": "03",
+      "knocked": false,
+      "timestamp": 257426
+    },
+    {
+      "eliminated": {
+        "id": "Ps_plus38j",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "Sparda2K",
+        "isBot": false
+      },
+      "gunType": "05",
+      "knocked": false,
+      "timestamp": 257889
+    },
+    {
+      "eliminated": {
+        "id": "C4azySaviol",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "mc.Coco",
+        "isBot": false
+      },
+      "gunType": "03",
+      "knocked": true,
+      "timestamp": 296847
+    },
+    {
+      "eliminated": {
+        "id": "C4azySaviol",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "mc.Coco",
+        "isBot": false
+      },
+      "gunType": "08",
+      "knocked": false,
+      "timestamp": 305206
+    },
+    {
+      "eliminated": {
+        "id": "Nassim_401",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "SniperGC666",
+        "isBot": false
+      },
+      "gunType": "03",
+      "knocked": true,
+      "timestamp": 311099
+    },
+    {
+      "eliminated": {
+        "id": "SniperGC666",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "Cookie-Mina",
+        "isBot": false
+      },
+      "gunType": "03",
+      "knocked": true,
+      "timestamp": 314976
+    },
+    {
+      "eliminated": {
+        "id": "FallShark152442",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "mc.Coco",
+        "isBot": false
+      },
+      "gunType": "03",
+      "knocked": false,
+      "timestamp": 316380
+    },
+    {
+      "eliminated": {
+        "id": "Sparda2K",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "cimek23",
+        "isBot": false
+      },
+      "gunType": "05",
+      "knocked": true,
+      "timestamp": 322227
+    },
+    {
+      "eliminated": {
+        "id": "Sparda2K",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "cimek23",
+        "isBot": false
+      },
+      "gunType": "05",
+      "knocked": false,
+      "timestamp": 323898
+    },
+    {
+      "eliminated": {
+        "id": "cimek23",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "abdallah7864",
+        "isBot": false
+      },
+      "gunType": "04",
+      "knocked": true,
+      "timestamp": 330086
+    },
+    {
+      "eliminated": {
+        "id": "abdallah7864",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "PaoloWAWA PL",
+        "isBot": false
+      },
+      "gunType": "10",
+      "knocked": false,
+      "timestamp": 332495
+    },
+    {
+      "eliminated": {
+        "id": "Nassim_401",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "SniperGC666",
+        "isBot": false
+      },
+      "gunType": "03",
+      "knocked": false,
+      "timestamp": 336172
+    },
+    {
+      "eliminated": {
+        "id": "Cookie-Mina",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "Jamesontango_171",
+        "isBot": false
+      },
+      "gunType": "03",
+      "knocked": false,
+      "timestamp": 337378
+    },
+    {
+      "eliminated": {
+        "id": "D.u.r.a.l",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "FandanGle CZ",
+        "isBot": false
+      },
+      "gunType": "03",
+      "knocked": true,
+      "timestamp": 402241
+    },
+    {
+      "eliminated": {
+        "id": "D.u.r.a.l",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "FandanGle CZ",
+        "isBot": false
+      },
+      "gunType": "03",
+      "knocked": false,
+      "timestamp": 405581
+    },
+    {
+      "eliminated": {
+        "id": "NewRokracek",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "heaven-guard",
+        "isBot": false
+      },
+      "gunType": "03",
+      "knocked": true,
+      "timestamp": 409055
+    },
+    {
+      "eliminated": {
+        "id": "KsK sneaX",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "THEGUYDELTA",
+        "isBot": false
+      },
+      "gunType": "03",
+      "knocked": true,
+      "timestamp": 409494
+    },
+    {
+      "eliminated": {
+        "id": "heaven-guard",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "FandanGle CZ",
+        "isBot": false
+      },
+      "gunType": "03",
+      "knocked": false,
+      "timestamp": 410392
+    },
+    {
+      "eliminated": {
+        "id": "Mansaren2.0",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "Ghost LaughBear",
+        "isBot": false
+      },
+      "gunType": "03",
+      "knocked": true,
+      "timestamp": 412873
+    },
+    {
+      "eliminated": {
+        "id": "KsK sneaX",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "THEGUYDELTA",
+        "isBot": false
+      },
+      "gunType": "03",
+      "knocked": false,
+      "timestamp": 424554
+    },
+    {
+      "eliminated": {
+        "id": "Ghost LaughBear",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "THEGUYDELTA",
+        "isBot": false
+      },
+      "gunType": "04",
+      "knocked": false,
+      "timestamp": 435900
+    },
+    {
+      "eliminated": {
+        "id": "Shanlom",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "Joniッ.",
+        "isBot": false
+      },
+      "gunType": "06",
+      "knocked": true,
+      "timestamp": 444517
+    },
+    {
+      "eliminated": {
+        "id": "Shanlom",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "Joniッ.",
+        "isBot": false
+      },
+      "gunType": "06",
+      "knocked": false,
+      "timestamp": 449529
+    },
+    {
+      "eliminated": {
+        "id": "islami007",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "Shiqan",
+        "isBot": false
+      },
+      "gunType": "06",
+      "knocked": true,
+      "timestamp": 457741
+    },
+    {
+      "eliminated": {
+        "id": "islami007",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "Shiqan",
+        "isBot": false
+      },
+      "gunType": "03",
+      "knocked": false,
+      "timestamp": 471101
+    },
+    {
+      "eliminated": {
+        "id": "Shiqan",
+        "isBot": false
+      },
+      "eliminator": {
+        "id": "Joniッ.",
+        "isBot": false
+      },
+      "gunType": "03",
+      "knocked": false,
+      "timestamp": 477850
+    }
+  ],
+  "matchStats": {
+    "accuracy": 0.3194444477558136,
+    "assists": 0,
+    "eliminations": 3,
+    "weaponDamage": 76,
+    "otherDamage": 497,
+    "revives": 0,
+    "damageTaken": 191,
+    "damageToStructures": 7290,
+    "materialsGathered": 1425,
+    "materialsUsed": 270,
+    "totalTraveled": 1
+  },
+  "teamMatchStats": {
+    "position": 21,
+    "totalPlayers": 100
+  },
+  "header": {
+    "magic": 754295101,
+    "networkVersion": 14,
+    "networkChecksum": 297310476,
+    "engineNetworkVersion": 11,
+    "gameNetworkProtocol": 0,
+    "id": "896b83daa1cf7945898810095217ba09",
+    "version": {
+      "branch": "++Fortnite+Release-8.20",
+      "major": 8,
+      "minor": 20,
+      "changelist": 5625478,
+      "patch": 0
+    },
+    "flags": 3,
+    "gameSpecificData": [
+      "SubGame=Athena"
+    ]
+  },
+  "meta": {
+    "magic": 480436863,
+    "fileVersion": 5,
+    "lengthInMs": 498241,
+    "networkVersion": 2,
+    "changelist": 5625478,
+    "name": "Unsaved Replay",
+    "isLive": false,
+    "timestamp": "2019-04-05T20:22:58.850Z",
+    "isCompressed": true,
+    "isEncrypted": false
+  }
+}
