@@ -15,11 +15,6 @@ with Reader("filepath") as replay:
 ## :warning: More info
 Please see [Fortnite Replay Decompressor](https://github.com/Shiqan/FortniteReplayDecompressor) for more details.
 
-## License
-
-Licensed under the [MIT License](LICENSE).
-
-
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -31,7 +26,7 @@ Licensed under the [MIT License](LICENSE).
 For now I haven't published this package to NPM as it isn't ready for prime time 🙉
 
 ```
-$ git clone git@github.com:tpatel/fortnite-replay-reader.git
+$ git clone git@github.com:painteau/FTNTournamentParser
 ```
 
 ## Usage
@@ -86,14 +81,3 @@ You can also use the chunks data to list the player eliminations like in the fol
 03:41  [イサイアス] eliminated [Zappelluca] [260]
 03:41  [ガスパルエンジェル] eliminated [FluffyRainbowYT] [260]
 ```
-
-## TODO
-
-🆘 This project can benefit from your help
-
-- Collect more replay files, especially from the latest Fortnite version.
-- Figure out more of the replay file structure.
-
-## License
-
-MIT © Thibaut Patel
